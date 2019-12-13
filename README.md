@@ -1,5 +1,3 @@
-<h1 align="center"> infura </h1>
-
 <p align="center"> Slim and Simple infura.io client.</p>
 
 
